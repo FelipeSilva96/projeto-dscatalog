@@ -1,0 +1,15 @@
+Dúvidas para tirar mais pro fim do projeto (mudar o repositório no git para public 'talvez' p/ mandar no gemini)
+
+Por que algumas classes tem implements seriazable e outras não 
+
+Por que na classe CategoryDTO tem um construtor que recebe o proprio objeto CategoryDto (me explicar ele)
+
+ver sobre integridade referencial (produtos e categorias)
+
+pedir explicação sobre paginação
+
+estudar também Postman
+
+ver join Table (n-n) muitos pra muitos 
+
+Ver por que o CategoryRepository e ProductRepository estão vazios (consequencia do JPA?)
